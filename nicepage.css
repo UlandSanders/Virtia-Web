@@ -31236,7 +31236,6 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-search-1 {
   min-height: 50px;
   font-size: 1rem;
-  height: auto;
   margin-top: -46px;
   margin-bottom: 0;
   margin-right: 0;
@@ -31253,6 +31252,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-search-1 {
+    height: auto;
     font-size: 0.875rem;
     margin-right: initial;
   }
