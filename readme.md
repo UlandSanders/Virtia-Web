@@ -1,2 +1,4 @@
-# Web Version Of Virtia
-***Vertia Was Made To End Most Of Them Bad Blockers Like "Netsweeper" And "Go-Gaurdien".***
+# Virtia The Offical Website
+This Is The Offical Website For Virtia, Constructed As The Main Version From Repo Of Virtia.
+#
+**If You Already Have The Latest Version From Virtia, Please Just Click The LInk To The Main Website***
