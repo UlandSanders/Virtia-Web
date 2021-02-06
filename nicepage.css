@@ -31222,7 +31222,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-menu-1 {
   font-family: size-14;
-  margin: 17px -54px 0 auto;
+  margin: 18px -54px 0 auto;
 }
 
 .u-header .u-nav-1 {
@@ -31236,7 +31236,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-search-1 {
   min-height: 50px;
   font-size: 1rem;
-  margin-top: -46px;
+  margin-top: -47px;
   margin-bottom: 0;
   margin-right: 0;
 }
@@ -31254,10 +31254,19 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-search-1 {
     height: auto;
     font-size: 0.875rem;
+    margin-top: -47px;
     margin-right: initial;
   }
-}
 
+  .u-header .u-shopping-cart-1 {
+    margin-top: -44px;
+  }
+}
+@media (max-width: 991px) {
+  .u-header .u-shopping-cart-1 {
+    margin-bottom: 60px;
+  }
+}
 
 @media (max-width: 575px) {
   .u-header .u-menu-1 {
@@ -31268,10 +31277,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-search-1 {
     min-height: 44px;
     margin-right: initial;
-  }
-
-  .u-header .u-shopping-cart-1 {
-    margin-bottom: 28px;
   }
 }
 .u-footer .u-sheet-1 {
