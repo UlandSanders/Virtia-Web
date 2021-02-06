@@ -16,10 +16,14 @@ Virtia Web Was Created For An Offical Website, Not Locally Made By Downloading T
 
 ### SYSTEMS
 
-__ANDROID - Unsupported__
-__IOS - Unsupported__
-__CHROME OS - Supported__
-__WINDOWS 8-9-10 Supported__
-__Linux, Arch, Ubuntu Supported__
+ANDROID - Unsupported
+___
+IOS - Unsupported
+___
+CHROME OS - Supported
+___
+WINDOWS 8-9-10 Supported
+___
+Linux, Arch, Ubuntu Supported
 
 #
