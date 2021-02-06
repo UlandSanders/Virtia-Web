@@ -99,7 +99,6 @@
   grid-template-columns: 100%;
   grid-template-rows: auto;
   width: 1129px;
-  height: auto;
   margin: 27px calc(((100% - 1140px) / 2)) 50px auto;
 }
 
@@ -123,6 +122,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 1454px;
+  }
+
   .u-section-1 .u-text-1 {
     width: 379px;
     margin-left: calc(((100% - 1140px) / 2) + 381px);
@@ -164,6 +167,7 @@
   }
 
   .u-section-1 .u-list-1 {
+    height: auto;
     width: 940px;
     margin: 183px calc(((100% - 940px) / 2)) 0 calc(((100% - 1140px) / 2) + 100px);
   }
@@ -207,16 +211,18 @@
   }
 
   .u-section-1 .u-text-5 {
-    margin-right: 14px;
-    margin-left: 234px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 224px;
   }
 
   .u-section-1 .u-text-6 {
-    margin-right: 15px;
-    margin-left: 234px;
+    margin-right: auto;
+    margin-left: 224px;
   }
 
   .u-section-1 .u-list-1 {
+    min-height: 828px;
     width: 720px;
     margin-right: calc(((100% - 720px) / 2));
     margin-bottom: 50px;
@@ -253,16 +259,6 @@
     padding-right: 10px;
   }
 
-  .u-section-1 .u-text-5 {
-    margin-right: 0;
-    margin-left: 68px;
-  }
-
-  .u-section-1 .u-text-6 {
-    margin-left: 68px;
-    margin-right: 1px;
-  }
-
   .u-section-1 .u-list-1 {
     width: 540px;
     margin-right: calc(((100% - 540px) / 2));
@@ -280,11 +276,19 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 814px;
+  }
+
   .u-section-1 .u-text-1 {
     font-size: 3rem;
     width: 340px;
     margin-left: calc(((100% - 1140px) / 2) + 400px);
     margin-right: calc(((100% - 1140px) / 2) + 400px);
+  }
+
+  .u-section-1 .u-slider-1 {
+    margin-top: 0;
   }
 
   .u-section-1 .u-text-2 {
@@ -304,13 +308,14 @@
   }
 
   .u-section-1 .u-icon-1 {
-    margin-top: -57px;
-    margin-left: 132px;
+    margin-top: 32px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-text-5 {
-    margin-top: -7px;
+    margin-top: 8px;
     margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-6 {
@@ -320,9 +325,7 @@
 
   .u-section-1 .u-list-1 {
     width: 340px;
-    margin-top: -569px;
-    margin-right: calc(((100% - 340px) / 2));
-    margin-left: calc(((100% - 1140px) / 2) + 400px);
+    margin: -569px auto 0;
   }
 
   .u-section-1 .u-text-7 {
