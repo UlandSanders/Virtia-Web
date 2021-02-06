@@ -13,3 +13,13 @@ Virtia Web Was Created For An Offical Website, Not Locally Made By Downloading T
 * Questions Page Wont Work.
 
 ###### The Reason Is Its Still BETA, And Still Needs Updatings.
+
+### SYSTEMS
+
+ANDROID - Unsupported
+IOS - Unsupported
+CHROME OS - Supported
+WINDOWS 8-9-10 Supported
+Linux, Arch, Ubuntu Supported
+
+#
