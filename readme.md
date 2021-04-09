@@ -1,3 +1,7 @@
+## This Repo Has Been Archived, Due To My Lack Of Supporting It, So Im Done With It
+###### sorry to users using this website "link will still be up" just no updates anymore.
+
+#
 ### Virtia The Offical Website
 ###### This Is The Offical Website For Virtia, Constructed As The Main Version From Repo Of Virtia.
 
